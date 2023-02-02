@@ -1,0 +1,1 @@
+window.bookSummaryJSON = "<p>Lawyer Brent Marks advocates for a gay couple's marriage. After victory, the couple is found in their home brutally murdered, serial killer style. Can Brent bring himself to defend the only suspect in the case? Where ethics and tolerance collide, Brent must solve the murders to form a viable defense. </p>"; 

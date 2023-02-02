@@ -1,0 +1,1 @@
+window.bookSummaryJSON = "Authors Craig Gross and J.R. Mahon challenge fellow Christ-followers to stop talking about being spiritual, and start being spiritual by rolling up their sleeves and serving a world desperate for the hope Christ offers."; 
